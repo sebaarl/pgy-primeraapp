@@ -1,0 +1,15 @@
+ion-card {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+ion-card-header {
+    grid-column: 1;
+}
+
+ion-card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
