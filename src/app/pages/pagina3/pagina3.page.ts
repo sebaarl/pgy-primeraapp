@@ -29,6 +29,57 @@ export class Pagina3Page implements OnInit {
       edad : 21,
       email : "e.seguel@duocuc.cl"
     },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },{
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+    {
+      nombre : "Esteban Seguel",
+      edad : 21,
+      email : "e.seguel@duocuc.cl"
+    },
+
   ]
 
   constructor() { }

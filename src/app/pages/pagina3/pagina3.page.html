@@ -1,15 +1,18 @@
 <app-encabezado titulo="Pagina 3"></app-encabezado>
 
 <ion-content class="ion-padding">
+  <app-refresh></app-refresh>
   <ion-text color="primary">
     <h1>Esta es la pagina 3</h1>
   </ion-text>
   <div>
-    <div class="container" *ngFor="let item of personal" >
+    <div class="container" *ngFor="let item of personal">
       <ion-card>
         <ion-card-header>
-          <ion-img src="https://www.bitbol.la/files/image/22/22134/6131a1cd7de81_360_480!.jpg?s=68deb719143bab298518e2bb34be00ec&d=1630643387" ></ion-img>
-        </ion-card-header>   
+          <ion-img
+            src="https://www.bitbol.la/files/image/22/22134/6131a1cd7de81_360_480!.jpg?s=68deb719143bab298518e2bb34be00ec&d=1630643387">
+          </ion-img>
+        </ion-card-header>
         <ion-card-content>
           <h2>{{ item.nombre }}</h2>
           <p>{{ item.email }}</p>
