@@ -10,76 +10,40 @@ export class Pagina3Page implements OnInit {
 
   personal : Personal[] = [
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
     {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
+      nombre : "Arturo Vidal",
+      edad : 34,
+      email : "vidal@borracho.cl"
     },
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },{
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-    {
-      nombre : "Esteban Seguel",
-      edad : 21,
-      email : "e.seguel@duocuc.cl"
-    },
-
   ]
 
   constructor() { }
